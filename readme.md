@@ -1,4 +1,4 @@
-# GPL Chemist App 
+# GPL Chemist App [![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47/project/018b3930-771c-40d1-8200-649d3cea926b.svg)](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47/project/018b3930-771c-40d1-8200-649d3cea926b)
 
 <img src="https://github.com/musfique113/gpl_chemist_app/assets/53111065/c7a8e3ae-b0f2-4be0-ae67-8dff3b33ca5b" align="left"
 width="200" hspace="10" vspace="10">
